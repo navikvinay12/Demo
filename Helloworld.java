@@ -7,7 +7,7 @@ public class Helloworld
 		System.out.println("Welcome to Helloworld Program");
 		try 
 		{
-			Thread.sleep((60000));
+			Thread.sleep((70000));
 		} catch (InterruptedException e) {
 			e.printStackTrace();
 		}
